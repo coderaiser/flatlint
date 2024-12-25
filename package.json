@@ -15,8 +15,7 @@
     "watch:lint": "madrun watch:lint",
     "watcher": "madrun watcher",
     "coverage": "madrun coverage",
-    "report": "madrun report",
-    "prepare": "madrun prepare"
+    "report": "madrun report"
   },
   "repository": {
     "type": "git",
@@ -59,7 +58,7 @@
     "mapsome": "^1.0.0",
     "montag": "^1.0.0",
     "once": "^1.4.0",
-    "putout": "37.0.0",
+    "putout": "^37.0.0",
     "try-catch": "^3.0.0",
     "try-to-catch": "^3.0.0",
     "yargs-parser": "^21.0.0"

@@ -1,6 +1,5 @@
 // noinspection JSUnusedGlobalSymbols
-
-import {run, cutEnv} from 'madrun';
+import {run} from 'madrun';
 
 export default {
     'lint': () => 'putout .',
@@ -8,7 +7,7 @@ export default {
     'lint:fresh': () => run('lint', '--fresh'),
     'fix:lint': () => run('lint', '--fix'),
     'test': () => `tape 'test/**/*.js' '{lib,bin}/**/*.spec.{js,mjs}'`,
-    'watch:test': async () => await run('watcher', await cutEnv('test')),
+    'watch:test': async () => await run('watcher', await run('test')),
     'watch:tape': () => 'nodemon -w test -w lib --exec tape',
     'watch:lint': async () => await run('watcher', await run('lint')),
     'watcher': () => 'nodemon -w test -w lib -w bin --exec',
