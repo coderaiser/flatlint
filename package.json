@@ -49,6 +49,7 @@
     "node": ">=18"
   },
   "dependencies": {
+    "@putout/engine-loader": "^15.0.1",
     "@putout/formatter-dump": "^5.0.0",
     "all-object-keys": "^2.0.0",
     "enquirer": "^2.3.6",
@@ -65,6 +66,7 @@
   },
   "devDependencies": {
     "@putout/formatter-json": "^2.0.0",
+    "@putout/test": "^11.1.0",
     "c8": "^10.1.2",
     "escover": "^4.0.0",
     "eslint": "^9.7.0",
