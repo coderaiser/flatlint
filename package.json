@@ -4,6 +4,9 @@
   "description": "JavaScript tokens-based linter",
   "main": "lib/tklint.js",
   "type": "module",
+  "exports": {
+    "./with-plugins": "./lib/with-plugins.js"
+  },
   "scripts": {
     "lint": "madrun lint",
     "fresh:lint": "madrun fresh:lint",
