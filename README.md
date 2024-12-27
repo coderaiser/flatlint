@@ -13,7 +13,7 @@ npm i tklint
 ```js
 import {lint, plugins} from 'tklint/with-plugins';
 
-const {code} = tklint(`a && b = c`, {
+const [code] = tklint(`a && b = c`, {
     plugins,
 });
 
@@ -28,7 +28,7 @@ Without `fix`:
 ```js
 import {lint, plugins} from 'tklint/with-plugins';
 
-const {places} = tklint(`a && b = c`, {
+const [, places] = tklint(`a && b = c`, {
     fix: false,
     plugins,
 });
@@ -47,7 +47,7 @@ When you want to use custom plugins:
 ```js
 import {lint} from 'tklint';
 
-lint(`a && b = c`, {
+const [code] = lint(`a && b = c`, {
     plugins: [
         ['wrap-assignment-in-parens', {
             report: () => `Wrap the assignment in parentheses after '&&'`,
