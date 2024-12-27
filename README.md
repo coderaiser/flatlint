@@ -1,19 +1,19 @@
-# TKLint
+# FlatLint
 
 Token-based JavaScript linter that fixes Syntax Errors
 
 ## Install
 
 ```
-npm i tklint
+npm i flatlint
 ```
 
 ## API
 
 ```js
-import {lint, plugins} from 'tklint/with-plugins';
+import {lint, plugins} from 'flatlint/with-plugins';
 
-const [code] = tklint(`a && b = c`, {
+const [code] = flatlint(`a && b = c`, {
     plugins,
 });
 
@@ -26,9 +26,9 @@ a && (b = c);
 Without `fix`:
 
 ```js
-import {lint, plugins} from 'tklint/with-plugins';
+import {lint, plugins} from 'flatlint/with-plugins';
 
-const [, places] = tklint(`a && b = c`, {
+const [, places] = flatlint(`a && b = c`, {
     fix: false,
     plugins,
 });
@@ -45,7 +45,7 @@ const [, places] = tklint(`a && b = c`, {
 When you want to use custom plugins:
 
 ```js
-import {lint} from 'tklint';
+import {lint} from 'flatlint';
 
 const [code] = lint(`a && b = c`, {
     plugins: [

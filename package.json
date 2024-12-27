@@ -1,8 +1,8 @@
 {
-  "name": "tklint",
+  "name": "flatlint",
   "version": "1.0.0",
   "description": "JavaScript tokens-based linter",
-  "main": "lib/tklint.js",
+  "main": "lib/flatlint.js",
   "type": "module",
   "exports": {
     "./with-plugins": "./lib/with-plugins.js"
@@ -11,8 +11,8 @@
     "#test": {
       "default": "./lib/test/test.js"
     },
-    "#tklint": {
-      "default": "./lib/tklint.js"
+    "#flatlint": {
+      "default": "./lib/flatlint.js"
     }
   },
   "scripts": {
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coderaiser/tklint.git"
+    "url": "git+https://github.com/coderaiser/flatlint.git"
   },
   "keywords": [
-    "tklint",
+    "flatlint",
     "scripts",
     "package",
     "npm",
@@ -52,9 +52,9 @@
   ],
   "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
   "bugs": {
-    "url": "https://github.com/coderaiser/tklint/issues"
+    "url": "https://github.com/coderaiser/flatlint/issues"
   },
-  "homepage": "https://github.com/coderaiser/tklint",
+  "homepage": "https://github.com/coderaiser/flatlint",
   "license": "MIT",
   "engines": {
     "node": ">=18"
