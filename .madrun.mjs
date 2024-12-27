@@ -1,4 +1,3 @@
-// noinspection JSUnusedGlobalSymbols
 import {run} from 'madrun';
 
 export default {

@@ -15,4 +15,3 @@ test('tklint: exports', async (t) => {
     t.deepEqual(result, expected);
     t.end();
 });
-

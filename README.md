@@ -16,6 +16,7 @@ import {lint, plugins} from 'tklint/with-plugins';
 const {code} = tklint(`a && b = c`, {
     plugins,
 });
+
 // returns
 `
 a && (b = c);
@@ -31,14 +32,14 @@ const {places} = tklint(`a && b = c`, {
     fix: false,
     plugins,
 });
+
 // returns
-[
+[{
     column: 1,
     line: 1,
     message: `Wrap the assignment in parentheses after '&&'`,
     rule: 'wrap-assignment-in-parens',
-
-];
+}];
 ```
 
 When you want to use custom plugins:
@@ -52,9 +53,9 @@ lint(`a && b = c`, {
             report: () => `Wrap the assignment in parentheses after '&&'`,
             replace: () => ({
                 '__a && __b = __c': '__a && (__b = __c)',
-            })
-        }]
-    ]
+            }),
+        }],
+    ],
 });
 ```
 

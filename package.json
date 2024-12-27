@@ -7,6 +7,14 @@
   "exports": {
     "./with-plugins": "./lib/with-plugins.js"
   },
+  "imports": {
+    "#test": {
+      "default": "./lib/test/test.js"
+    },
+    "#tklint": {
+      "default": "./lib/tklint.js"
+    }
+  },
   "scripts": {
     "lint": "madrun lint",
     "fresh:lint": "madrun fresh:lint",
