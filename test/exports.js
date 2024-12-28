@@ -1,6 +1,6 @@
 import {test} from 'supertape';
 
-test('tklint: exports', async (t) => {
+test('flatlint: exports', async (t) => {
     const {lint, plugins} = await import('flatlint/with-plugins');
     const result = {
         lint,
