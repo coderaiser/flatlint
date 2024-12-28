@@ -8,6 +8,26 @@ Token-based JavaScript linter that fixes Syntax Errors
 npm i flatlint
 ```
 
+## Available fixes
+
+<details><summary>Assignment without parentheses after <code>&&</code></summary>
+
+```diff
+-a && b = c;
++a && (b = c);
+```
+
+</details>
+
+<details><summary>Convert <code>,</code> to <code>;</code> at the end of statement</summary>
+
+```diff
+-const a = 5,
++const a = 5;
+```
+
+</details>
+
 ## API
 
 ```js

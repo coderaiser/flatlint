@@ -1,3 +1,10 @@
 import {safeAlign} from 'eslint-plugin-putout/config';
 
-export default safeAlign;
+import {
+    matchToFlat,
+    createESLintConfig,
+} from '@putout/eslint-flat';
+
+export default createESLintConfig(safeAlign, {
+    ignores: ['**/fixture'],
+});
