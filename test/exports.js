@@ -8,7 +8,7 @@ test('tklint: exports', async (t) => {
     };
     
     const expected = {
-        ...await import('../lib/tklint.js'),
+        ...await import('#flatlint'),
         ...await import('../lib/plugins.js'),
     };
     
