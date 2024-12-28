@@ -1,3 +1,8 @@
+2024.12.28, v1.1.0
+
+feature:
+- 8a7c88c flatlint: convert-comma-to-semicolon
+
 2024.12.28, v1.0.2
 
 fix:
