@@ -1,3 +1,8 @@
+2024.12.29, v1.4.1
+
+feature:
+- 1efda41 flatlint: add-missing-quote: semicolon
+
 2024.12.29, v1.4.0
 
 feature:
