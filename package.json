@@ -15,7 +15,16 @@
       "default": "./lib/types/types.js"
     },
     "#parser": {
-      "default": "./lib/parser/index.js"
+      "default": "./lib/parser/parser.js"
+    },
+    "#traverser": {
+      "default": "./lib/traverser/traverser.js"
+    },
+    "#compare": {
+      "default": "./lib/compare/compare.js"
+    },
+    "#runner": {
+      "default": "./lib/runner/runner.js"
     },
     "#flatlint": {
       "default": "./lib/flatlint.js"
