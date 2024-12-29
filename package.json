@@ -11,6 +11,9 @@
     "#test": {
       "default": "./lib/test/test.js"
     },
+    "#types": {
+      "default": "./lib/types/types.js"
+    },
     "#flatlint": {
       "default": "./lib/flatlint.js"
     }
