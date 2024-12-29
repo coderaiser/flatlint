@@ -53,6 +53,9 @@ npm i flatlint
 ```diff
 -const a = 'hello
 +const a = 'hello'
+
+-fn('hello);
++fn('hello');
 ```
 
  </details>
