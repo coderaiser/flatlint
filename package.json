@@ -14,6 +14,9 @@
     "#types": {
       "default": "./lib/types/types.js"
     },
+    "#parser": {
+      "default": "./lib/parser/index.js"
+    },
     "#flatlint": {
       "default": "./lib/flatlint.js"
     }
