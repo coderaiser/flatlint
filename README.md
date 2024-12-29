@@ -28,13 +28,22 @@ npm i flatlint
 
 </details>
 
-<details><summary>forgotten round braces in if statement</summary>¬
+<details><summary>forgotten round braces in if statement</summary>
 
-```diff¬
+```diff
 -if a > 5 {
 +if (a > 5) {
- alert();
+    alert();
 }
+```
+
+ </details>
+
+<details><summary>remove useless round brace</summary>
+
+```diff
+-const a = 5);
++const a = 5;
 ```
 
  </details>
