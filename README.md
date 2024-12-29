@@ -48,6 +48,15 @@ npm i flatlint
 
  </details>
 
+<details><summary>add missing quote</summary>
+
+```diff
+-const a = 'hello
++const a = 'hello'
+```
+
+ </details>
+
 ## API
 
 ```js
