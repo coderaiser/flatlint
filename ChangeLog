@@ -1,3 +1,9 @@
+2024.12.30, v1.7.0
+
+feature:
+- 5b0c929 flatlint: produce single quotes
+- 536acf8 flatlint: add-missing-squire-brace: add
+
 2024.12.29, v1.6.1
 
 feature:
