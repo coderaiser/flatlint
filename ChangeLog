@@ -1,3 +1,8 @@
+2024.12.30, v1.7.3
+
+feature:
+- bdaa1d3 flatlint: add-missing-squire-brace: number
+
 2024.12.30, v1.7.2
 
 fix:
