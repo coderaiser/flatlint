@@ -1,3 +1,8 @@
+2024.12.30, v1.7.2
+
+fix:
+- 42b7194 add-missing-squire-braces: template
+
 2024.12.30, v1.7.1
 
 feature:
