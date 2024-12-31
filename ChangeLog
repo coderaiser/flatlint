@@ -1,3 +1,8 @@
+2024.12.31, v1.10.0
+
+feature:
+- 45a3f81 flatlint: add-const-to-export: arrow function support
+
 2024.12.31, v1.9.0
 
 feature:
