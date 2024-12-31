@@ -53,6 +53,9 @@ npm i flatlint
 ```diff
 -const a = 5);
 +const a = 5;
+
+-import a from 'a');
++import a from 'a';
 ```
 
  </details>
