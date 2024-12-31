@@ -1,3 +1,8 @@
+2024.12.31, v1.8.0
+
+feature:
+- abe1724 flatlint: remove-useless-round-brace: import
+
 2024.12.30, v1.7.3
 
 feature:
