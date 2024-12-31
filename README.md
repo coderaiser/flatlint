@@ -39,6 +39,15 @@ npm i flatlint
 
  </details>
 
+<details><summary>add <code>const</code> to <code>export</code></summary>
+
+```diff
+-export x = 5;
++export const x = 5;
+```
+
+ </details>
+
 <details><summary>add missing squire brace</summary>
 
 ```diff
