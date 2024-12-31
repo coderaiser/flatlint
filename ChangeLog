@@ -1,3 +1,8 @@
+2024.12.31, v1.11.0
+
+feature:
+- 4e9b0dd flatlint: remove-useless-round-brace: add support of specifiers
+
 2024.12.31, v1.10.0
 
 feature:
