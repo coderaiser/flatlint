@@ -28,6 +28,15 @@ npm i flatlint
 
 </details>
 
+<details><summary>Convert <code>from</code> to <code>require</code></summary>
+
+```diff
+-const a = from 'a';
++const a = require('a');
+```
+
+</details>
+
 <details><summary>add missing round braces in if statement</summary>
 
 ```diff
