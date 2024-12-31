@@ -1,3 +1,8 @@
+2024.12.31, v1.9.0
+
+feature:
+- e3e32a4 flatlint: add const to export
+
 2024.12.31, v1.8.0
 
 feature:
