@@ -90,6 +90,24 @@ npm i flatlint
 
  </details>
 
+## Template literals
+
+**FlatLint** uses language similar to 🐊[**PutoutScript**](https://github.com/coderaiser/putout/blob/master/docs/putout-script.md#-putoutscript).
+
+It can look similar, but has a couple differences:
+- ✅it may not be valid **JavaScript**, it can be couple tokens that can be fixed;
+- ✅it counts each symbol as a token;
+
+### `__a`
+
+From `__a` to `__z` is usually identifiers, but can also be strings if used with quotes `'__a'` they can be single or double,
+it can be only one quote `'__a` - this is valid, since **FlatLint** is tokens based.
+
+### `__array`
+
+Collects everything that looks like array elements, it can start from squire brace `[__array;`, but that's not important
+to end with it, since it used to fix error patterns.
+
 ## API
 
 ```js
