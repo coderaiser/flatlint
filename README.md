@@ -110,6 +110,17 @@ const a = {
 
  </details>
 
+<details><summary>Remove useless arrow</summary>
+
+```diff
+-function parse(source) => {
++function parse(source) {
+    return source;
+}
+```
+
+ </details>
+
 ## Template literals
 
 **FlatLint** uses language similar to 🐊[**PutoutScript**](https://github.com/coderaiser/putout/blob/master/docs/putout-script.md#-putoutscript).
