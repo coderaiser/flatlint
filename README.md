@@ -96,8 +96,8 @@ npm i flatlint
 
 It can look similar, but has a couple differences:
 
-- ✅it may not be valid **JavaScript**, it can be couple tokens that can be fixed;
-- ✅it counts each symbol as a token;
+- ✅ it may not be valid **JavaScript**, it can be couple tokens that can be fixed;
+- ✅ it counts each symbol as a token;
 
 ### `__a`
 
