@@ -78,6 +78,15 @@ npm i flatlint
 
  </details>
 
+<details><summary>remove useless square brace</summary>
+
+```diff
+-const a = [1, 2, 3]];
++const a = [1, 2, 3];
+```
+
+ </details>
+
 <details><summary>add missing quote</summary>
 
 ```diff
