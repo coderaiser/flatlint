@@ -121,6 +121,17 @@ const a = {
 
  </details>
 
+<details><summary>Remove useless coma</summary>
+
+```diff
+const a = class {
+-    b() {},
++    b() {}
+}
+```
+
+ </details>
+
 ## Template literals
 
 **FlatLint** uses language similar to 🐊[**PutoutScript**](https://github.com/coderaiser/putout/blob/master/docs/putout-script.md#-putoutscript).
