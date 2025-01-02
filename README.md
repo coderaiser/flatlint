@@ -87,6 +87,17 @@ npm i flatlint
 
  </details>
 
+<details><summary>remove useless semicolon</summary>
+
+```diff
+const a = {
+-    b: 'hello';
++    b: 'hello',
+}
+```
+
+ </details>
+
 <details><summary>add missing quote</summary>
 
 ```diff
