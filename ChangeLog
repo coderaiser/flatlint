@@ -1,3 +1,8 @@
+2025.01.03, v1.20.0
+
+feature:
+- a6d8bd6 remove-useless-comma: use __args
+
 2025.01.02, v1.19.0
 
 feature:
