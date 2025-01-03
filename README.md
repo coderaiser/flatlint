@@ -151,6 +151,10 @@ it can be only one quote `'__a` - this is valid, since **FlatLint** is tokens ba
 Collects everything that looks like array elements, it can start from squire brace `[__array;`, but that's not important
 to end with it, since it used to fix error patterns.
 
+### `__args`
+
+Collects arguments of function when exists.
+
 ### `__expr`
 
 Collects everything that looks like expression.
