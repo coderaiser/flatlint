@@ -1,3 +1,8 @@
+2025.01.03, v1.21.2
+
+feature:
+- 8e24b66 flatlint: convert-comma-to-semicolon: rm match
+
 2025.01.03, v1.21.1
 
 feature:
