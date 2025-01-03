@@ -1,3 +1,8 @@
+2025.01.03, v1.21.0
+
+feature:
+- d13da41 flatlint: add-missing-squire-brace: empty array
+
 2025.01.03, v1.20.0
 
 feature:
