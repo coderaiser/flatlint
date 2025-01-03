@@ -1,3 +1,8 @@
+2025.01.03, v1.21.1
+
+feature:
+- eea4c32 flatlint: collect-args: simplify
+
 2025.01.03, v1.21.0
 
 feature:
