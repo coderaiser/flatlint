@@ -1,3 +1,8 @@
+2025.01.04, v1.22.0
+
+feature:
+- 807d059 flatlint: add-missing-semicolon: add
+
 2025.01.03, v1.21.2
 
 feature:
