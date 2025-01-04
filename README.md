@@ -132,6 +132,15 @@ const a = class {
 
  </details>
 
+<details><summary>add missing semicolon</summary>
+
+```diff
+-const a = 5
++const a = 5;
+```
+
+ </details>
+
 ## Template literals
 
 **FlatLint** uses language similar to 🐊[**PutoutScript**](https://github.com/coderaiser/putout/blob/master/docs/putout-script.md#-putoutscript).
