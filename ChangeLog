@@ -1,3 +1,8 @@
+2025.01.05, v1.24.0
+
+feature:
+- b6252d0 flatlint: path: getPrev -> getAllPrev
+
 2025.01.05, v1.23.0
 
 feature:
