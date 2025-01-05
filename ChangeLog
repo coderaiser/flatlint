@@ -1,3 +1,8 @@
+2025.01.05, v1.23.0
+
+feature:
+- a38f979 flatlint: replacer: improve match
+
 2025.01.04, v1.22.0
 
 feature:
