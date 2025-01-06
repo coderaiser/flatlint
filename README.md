@@ -37,13 +37,16 @@ npm i flatlint
 
 </details>
 
-<details><summary>add missing round braces in if statement</summary>
+<details><summary>add missing round brace</summary>
 
 ```diff
 -if a > 5 {
 +if (a > 5) {
     alert();
 }
+
+-a('hello'
++a('hello');
 ```
 
  </details>
