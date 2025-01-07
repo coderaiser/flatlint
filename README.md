@@ -47,6 +47,11 @@ npm i flatlint
 
 -a('hello'
 +a('hello');
+
+const m = {
+-    z: z('hello'
++    z: z('hello')
+}
 ```
 
  </details>
