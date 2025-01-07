@@ -76,6 +76,7 @@
   },
   "dependencies": {
     "@putout/engine-loader": "^15.0.1",
+    "debug": "^4.4.0",
     "js-tokens": "^9.0.1",
     "putout": "^37.0.0"
   },
