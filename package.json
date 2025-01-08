@@ -26,6 +26,9 @@
     "#compare": {
       "default": "./lib/compare/compare.js"
     },
+    "#compare/values": {
+      "default": "./lib/compare/values.js"
+    },
     "#runner": {
       "default": "./lib/runner/runner.js"
     },
