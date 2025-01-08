@@ -1,3 +1,9 @@
+2025.01.08, v1.28.0
+
+feature:
+- b1e6b43 remove-useless-comma: improve
+- 3ebb93d add-missing-semicolon: improve
+
 2025.01.08, v1.27.0
 
 feature:
