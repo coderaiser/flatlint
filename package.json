@@ -17,6 +17,9 @@
     "#parser": {
       "default": "./lib/parser/parser.js"
     },
+    "#printer": {
+      "default": "./lib/printer/printer.js"
+    },
     "#traverser": {
       "default": "./lib/traverser/traverser.js"
     },
