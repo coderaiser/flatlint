@@ -111,6 +111,17 @@ const a = {
 
  </details>
 
+<details><summary>remove useless comma</summary>
+
+```diff
+function x() {
+    return m;
+-},
++}
+```
+
+ </details>
+
 <details><summary>add missing quote</summary>
 
 ```diff
