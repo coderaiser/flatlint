@@ -1,3 +1,9 @@
+2025.01.09, v1.29.0
+
+feature:
+- 8d308ac flatlint: remove-useless-comma: curly
+- f070e0c flatlint: convert-coma-to-semicolon: return
+
 2025.01.08, v1.28.0
 
 feature:
