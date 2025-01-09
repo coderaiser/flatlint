@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      NAME: tklint
+      NAME: flatlint
     strategy:
       matrix:
         node-version:
