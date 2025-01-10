@@ -1,3 +1,8 @@
+2025.01.10, v1.37.0
+
+feature:
+- d6a77bd convert-comma-to-semicolon: return
+
 2025.01.10, v1.36.0
 
 feature:
