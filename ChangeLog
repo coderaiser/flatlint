@@ -1,3 +1,8 @@
+2025.01.10, v1.32.0
+
+feature:
+- af50927 flatlint: balance: __expr
+
 2025.01.09, v1.31.0
 
 feature:
