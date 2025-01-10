@@ -1,3 +1,8 @@
+2025.01.10, v1.35.0
+
+feature:
+- aeb79de flatlint: add-missing-semicolon: open round brace
+
 2025.01.10, v1.34.0
 
 feature:
