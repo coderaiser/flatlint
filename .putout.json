@@ -1,0 +1,6 @@
+{
+    "rules": {
+        "putout": "on",
+        "putout/check-replace-code": "off"
+    }
+}
