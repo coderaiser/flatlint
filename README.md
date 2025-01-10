@@ -29,6 +29,9 @@ function x() {
 -   return m,
 +   return m;
 }
+
+-import a from 'a',
++import a from 'a';
 ```
 
 </details>
