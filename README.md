@@ -19,7 +19,7 @@ npm i flatlint
 
 </details>
 
-<details><summary>Convert <code>,</code> to <code>;</code> at the end of statement</summary>
+<details><summary>convert <code>,</code> to <code>;</code> at the end of statement</summary>
 
 ```diff
 -const a = 5,
@@ -36,7 +36,7 @@ function x() {
 
 </details>
 
-<details><summary>Convert <code>from</code> to <code>require</code></summary>
+<details><summary>convert <code>from</code> to <code>require</code></summary>
 
 ```diff
 -const a = from 'a';
@@ -121,6 +121,23 @@ function x() {
     return m;
 -},
 +}
+```
+
+ </details>
+
+<details><summary>remove invalid character</summary>
+
+```diff
+-const {¬
+-    is,¬
+-    isArgsStr,¬
+-    isTypeParamsStr,¬
+-} = require('./is');¬
++const {
++    is,
++    isArgsStr,
++    isTypeParamsStr,
++} = require('./is');
 ```
 
  </details>
