@@ -64,6 +64,18 @@ const m = {
 
  </details>
 
+<details><summary>add missing comma</summary>
+
+```diff
+import {
+-    a
++    a,
+    b,
+} from 'c';
+```
+
+ </details>
+
 <details><summary>add <code>const</code> to <code>export</code></summary>
 
 ```diff
