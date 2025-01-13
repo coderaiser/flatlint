@@ -1,3 +1,8 @@
+2025.01.13, v1.43.1
+
+fix:
+- 9983889 flatlint: add-missing-comma: exclude: for-of
+
 2025.01.13, v1.43.0
 
 feature:
