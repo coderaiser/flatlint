@@ -1,3 +1,8 @@
+2025.01.13, v1.43.0
+
+feature:
+- 2c1b64c flatlint: add missing arrow: add
+
 2025.01.13, v1.42.1
 
 fix:
