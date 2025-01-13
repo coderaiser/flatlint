@@ -76,6 +76,15 @@ import {
 
  </details>
 
+<details><summary>add missing arrow <code>'=>'</code></summary>
+
+```diff
+-const a = (b, c) {};
++const a = (b, c) => {};
+```
+
+ </details>
+
 <details><summary>add <code>const</code> to <code>export</code></summary>
 
 ```diff
