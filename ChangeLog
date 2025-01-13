@@ -1,3 +1,10 @@
+2025.01.13, v1.40.0
+
+feature:
+- 5a1f09b flatlint: convert-comma-to-semicolon: use __x for keyword
+- e85093b flatlint: types: isOperator -> isKeywrod
+- 7c4afc1 flatlint: add-missing-comma: exclude await
+
 2025.01.12, v1.39.3
 
 feature:
