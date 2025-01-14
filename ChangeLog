@@ -1,3 +1,8 @@
+2025.01.14, v1.47.0
+
+feature:
+- 5ebcad4 flatlint: remove-invalid-character: ·
+
 2025.01.14, v1.46.0
 
 feature:
