@@ -53,6 +53,10 @@ function x() {
     alert();
 }
 
+-if (a.b() {
++if (a.b()) {
+}
+
 -a('hello'
 +a('hello');
 
