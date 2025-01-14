@@ -1,3 +1,8 @@
+2025.01.14, v1.44.0
+
+feature:
+- e8199e8 flatlint: add-missing-semicolon: exclude question mark
+
 2025.01.13, v1.43.1
 
 fix:
