@@ -150,9 +150,9 @@ function x() {
 
 ```diff
 -const {¬
--    is,¬
--    isArgsStr,¬
--    isTypeParamsStr,¬
+-····is,¬
+-····sArgsStr,¬
+-····isTypeParamsStr,¬
 -} = require('./is');¬
 +const {
 +    is,
