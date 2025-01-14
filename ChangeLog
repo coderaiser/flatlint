@@ -1,3 +1,8 @@
+2025.01.14, v1.45.3
+
+feature:
+- 8b9eff6 flatlint: add-missing-semicolon: call result of call
+
 2025.01.14, v1.45.2
 
 fix:
