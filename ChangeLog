@@ -1,3 +1,11 @@
+2025.01.14, v1.47.1
+
+fix:
+- 77b0023 flatlint: add-missing-round-braces -> add-missing-round-brace
+
+feature:
+- 41cd4c4 flatlint: add-missing-round-brace: if
+
 2025.01.14, v1.47.0
 
 feature:
