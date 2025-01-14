@@ -1,3 +1,8 @@
+2025.01.14, v1.49.0
+
+feature:
+- ffade65 flatlint: remove-useless-comma: exclude: property
+
 2025.01.14, v1.48.0
 
 feature:
