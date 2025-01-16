@@ -66,7 +66,16 @@ const m = {
 }
 ```
 
- </details>
+</details>
+
+<details><summary>add missing assign</summary>
+
+```diff
+-const a 5;
++const a = 5;
+```
+
+</details>
 
 <details><summary>add missing comma</summary>
 
