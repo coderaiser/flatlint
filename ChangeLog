@@ -1,3 +1,8 @@
+2025.01.16, v1.53.0
+
+feature:
+- 2188a65 flatlint: convert-comma-to-semicolon: __b -> __expr
+
 2025.01.15, v1.52.1
 
 feature:
