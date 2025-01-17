@@ -1,3 +1,8 @@
+2025.01.17, v1.55.0
+
+feature:
+- 8d3ee0b flatlint: remove-useless-semicolon -> convert-semicolon-to-comma
+
 2025.01.17, v1.54.1
 
 feature:
