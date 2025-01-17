@@ -137,7 +137,7 @@ import {
 
  </details>
 
-<details><summary>remove useless semicolon</summary>
+<details><summary>convert semicolon to comma</summary>
 
 ```diff
 const a = {
