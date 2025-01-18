@@ -2,6 +2,7 @@
     "rules": {
         "putout": "on",
         "putout/check-replace-code": "off",
-        "putout/declare": "off"
+        "putout/declare": "off",
+        "putout/declare-template-variables": "on"
     }
 }
