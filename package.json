@@ -5,6 +5,7 @@
   "main": "lib/flatlint.js",
   "type": "module",
   "exports": {
+    ".": "./lib/flatlint.js",
     "./with-plugins": "./lib/with-plugins.js"
   },
   "imports": {
