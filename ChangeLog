@@ -1,3 +1,8 @@
+2025.01.18, v1.60.1
+
+feature:
+- ed0c5f0 flatlint: add-missing-semicolon: simplify
+
 2025.01.18, v1.60.0
 
 feature:
