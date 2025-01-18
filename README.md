@@ -49,6 +49,15 @@ module.exports = 2;
 
 </details>
 
+<details><summary>add missing curly brace</summary>
+
+```diff
+-function a({b, c) {}
+-function a({b, c}) {}
+```
+
+</details>
+
 <details><summary>add missing round brace</summary>
 
 ```diff
