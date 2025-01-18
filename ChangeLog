@@ -1,3 +1,8 @@
+2025.01.18, v1.57.0
+
+feature:
+- 93b8c50 flatlint: convert-comma-to-semicolon: module
+
 2025.01.17, v1.56.0
 
 feature:
