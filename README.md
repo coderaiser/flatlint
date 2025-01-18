@@ -19,7 +19,7 @@ npm i flatlint
 
 </details>
 
-<details><summary>convert <code>,</code> to <code>;</code> at the end of statement</summary>
+<details><summary>convert comma to semicolon</summary>
 
 ```diff
 -const a = 5,
@@ -32,6 +32,10 @@ function x() {
 
 -import a from 'a',
 +import a from 'a';
+
+-const a = 3,
++const a = 3;
+module.exports = 2;
 ```
 
 </details>
