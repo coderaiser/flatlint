@@ -1,3 +1,8 @@
+2025.01.19, v1.62.0
+
+feature:
+- ca2745a flatlint: __expr: improve
+
 2025.01.18, v1.61.0
 
 feature:
