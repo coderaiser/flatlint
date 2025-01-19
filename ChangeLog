@@ -1,3 +1,8 @@
+2025.01.19, v1.63.0
+
+feature:
+- 7131929 flatlint: add-missing-round-brace: no args
+
 2025.01.19, v1.62.0
 
 feature:
