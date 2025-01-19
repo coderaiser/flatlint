@@ -94,8 +94,8 @@ const m = {
 
 ```diff
 import {
--    a
-+    a,
+-   a
++   a,
     b,
 } from 'c';
 ```
