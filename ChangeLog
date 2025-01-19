@@ -1,3 +1,8 @@
+2025.01.19, v1.64.0
+
+feature:
+- 16d4fa1 flatlint: convert-comma-to-semicolon: if
+
 2025.01.19, v1.63.0
 
 feature:
