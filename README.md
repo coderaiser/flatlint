@@ -86,6 +86,9 @@ const m = {
 ```diff
 -const a 5;
 +const a = 5;
+
+-module.exports {};
++module.exports {};
 ```
 
 </details>
