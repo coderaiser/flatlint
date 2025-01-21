@@ -1,3 +1,8 @@
+2025.01.21, v1.69.0
+
+feature:
+- 0c0632b flatlint: add-missing-assign: assignment
+
 2025.01.21, v1.68.0
 
 feature:
