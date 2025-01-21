@@ -88,7 +88,7 @@ const m = {
 +const a = 5;
 
 -module.exports {};
-+module.exports {};
++module.exports = {};
 ```
 
 </details>
