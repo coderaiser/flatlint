@@ -1,3 +1,8 @@
+2025.01.21, v1.68.0
+
+feature:
+- 8939969 remove-useless-round-brace: exclude call
+
 2025.01.21, v1.67.0
 
 feature:
