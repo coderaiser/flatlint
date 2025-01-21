@@ -1,3 +1,8 @@
+2025.01.21, v1.67.0
+
+feature:
+- 3a5ea58 flatlint: add-missing-comma: template
+
 2025.01.20, v1.66.0
 
 feature:
