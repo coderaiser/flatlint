@@ -1,3 +1,8 @@
+2025.01.22, v1.70.0
+
+feature:
+- c6a7229 flatlint: add-missing-comma: exclude else
+
 2025.01.21, v1.69.0
 
 feature:
