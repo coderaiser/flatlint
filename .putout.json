@@ -3,6 +3,7 @@
         "putout": "on",
         "putout/check-replace-code": "off",
         "putout/declare": "off",
-        "putout/declare-template-variables": "on"
+        "putout/declare-template-variables": "on",
+        "putout/declare-path-variable": "on"
     }
 }
