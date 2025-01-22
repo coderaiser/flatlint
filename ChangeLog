@@ -1,3 +1,8 @@
+2025.01.22, v1.75.0
+
+feature:
+- 8b8a629 flatlint: remove-useless-comma: spread
+
 2025.01.22, v1.74.0
 
 feature:
