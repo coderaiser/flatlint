@@ -1,3 +1,8 @@
+2025.01.22, v1.79.0
+
+feature:
+- 3af1666 flatlint: convert-comma-to-semicolon: exclude: openCurlyBrace
+
 2025.01.22, v1.78.0
 
 feature:
