@@ -1,3 +1,8 @@
+2025.01.22, v1.71.0
+
+feature:
+- 628cab1 flatlint: add-missing-assign: exclude or
+
 2025.01.22, v1.70.0
 
 feature:
