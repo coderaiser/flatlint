@@ -17,13 +17,9 @@ test('flatlint: exports: /with-plugins', async (t) => {
 });
 
 test('flatlint: exports', async (t) => {
-    const {lint} = await import('flatlint');
-    const result = {
-        lint,
-    };
+    const {lint: result} = await import('flatlint');
+    const {lint: expected} = await import('#flatlint');
     
-    const expected = await import('#flatlint');
-    
-    t.deepEqual(result, expected);
+    t.equal(result, expected);
     t.end();
 });

@@ -82,8 +82,7 @@
   "dependencies": {
     "@putout/engine-loader": "^15.1.1",
     "debug": "^4.4.0",
-    "js-tokens": "^9.0.1",
-    "putout": "^37.0.0"
+    "js-tokens": "^9.0.1"
   },
   "devDependencies": {
     "montag": "^1.0.0",
@@ -96,6 +95,7 @@
     "madrun": "^10.2.2",
     "mock-require": "^3.0.3",
     "nodemon": "^3.0.1",
+    "putout": "^37.0.0",
     "supertape": "^10.0.0"
   },
   "publishConfig": {
