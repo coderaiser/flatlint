@@ -1,3 +1,8 @@
+2025.01.22, v1.78.0
+
+feature:
+- fd9ced0 flatlint: convert-comma-to-semicolon: exclude quote
+
 2025.01.22, v1.77.0
 
 feature:
