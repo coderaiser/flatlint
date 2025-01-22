@@ -1,3 +1,8 @@
+2025.01.22, v1.76.0
+
+feature:
+- 4af401a flatlint: convert-comma-to-semicolon: spread
+
 2025.01.22, v1.75.0
 
 feature:
