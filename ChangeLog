@@ -1,3 +1,8 @@
+2025.01.23, v1.83.0
+
+feature:
+- fd891b3 flatlint: add-missing-round-brace: exclude not last
+
 2025.01.23, v1.82.0
 
 feature:
