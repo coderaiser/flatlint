@@ -1,3 +1,8 @@
+2025.01.28, v1.85.0
+
+feature:
+- c87d666 flatlint: add-missing-round-brace: improve
+
 2025.01.24, v1.84.0
 
 feature:
