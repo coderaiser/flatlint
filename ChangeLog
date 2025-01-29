@@ -1,3 +1,10 @@
+2025.01.29, v1.88.0
+
+feature:
+- da74764 flatlint: convert-comma-to-semicolon: strict mode
+- 3050f21 flatlint: eslint-plugin-putout v24.0.0
+- a3bc440 flatlint: putout v38.0.0
+
 2025.01.29, v1.87.0
 
 feature:
