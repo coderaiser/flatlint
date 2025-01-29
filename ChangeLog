@@ -1,3 +1,8 @@
+2025.01.29, v1.87.0
+
+feature:
+- f299df8 flatlint: add-missing-round-brace: method
+
 2025.01.28, v1.86.0
 
 fix:
