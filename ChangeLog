@@ -1,3 +1,8 @@
+2025.01.30, v1.89.0
+
+feature:
+- bda32f8 flatlint: remove-useless-round-brace: improve support of const
+
 2025.01.29, v1.88.0
 
 feature:
