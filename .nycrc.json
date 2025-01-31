@@ -1,5 +1,5 @@
 {
-    "check-coverage": false,
+    "check-coverage": true,
     "all": true,
     "exclude": [
         "**/*.spec.*",
@@ -7,7 +7,8 @@
         "test",
         ".*.*",
         "**/*.config.*",
-        "example"
+        "example",
+        "coverage"
     ],
     "branches": 100,
     "lines": 100,

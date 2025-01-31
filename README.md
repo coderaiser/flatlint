@@ -77,6 +77,9 @@ const m = {
 -    z: z('hello'
 +    z: z('hello')
 }
+
+-{hello} = world;
++({hello} = world);
 ```
 
 </details>
