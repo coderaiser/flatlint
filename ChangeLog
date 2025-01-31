@@ -1,3 +1,8 @@
+2025.01.31, v1.91.0
+
+feature:
+- 9485514 flatlint: add-missing-assign: isDeclarationKeyword
+
 2025.01.31, v1.90.1
 
 feature:
