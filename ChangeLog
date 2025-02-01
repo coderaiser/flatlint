@@ -1,3 +1,8 @@
+2025.02.02, v1.96.0
+
+feature:
+- 1aac08c flatlint: add-missing-comma: object
+
 2025.02.01, v1.95.0
 
 fix:
