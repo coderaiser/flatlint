@@ -177,6 +177,10 @@ function x() {
     return m;
 -},
 +}
+
+-const expected = [],
++const expected = [];
+t.equal(expected, []);
 ```
 
  </details>
