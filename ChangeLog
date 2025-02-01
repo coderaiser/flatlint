@@ -1,3 +1,8 @@
+2025.02.01, v1.92.0
+
+feature:
+- 214fd4b flatlint: add-missing-curly-brace: "const {__a = __expr;"
+
 2025.01.31, v1.91.1
 
 feature:
