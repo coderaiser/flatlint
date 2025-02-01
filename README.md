@@ -54,6 +54,9 @@ module.exports = 2;
 ```diff
 -function a({b, c) {}
 -function a({b, c}) {}
+
+-const {a = b;
++const {a} = b;
 ```
 
 </details>
