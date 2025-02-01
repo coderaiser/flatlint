@@ -1,3 +1,8 @@
+2025.02.01, v1.93.0
+
+feature:
+- 1141c03 flatlint: add-missing-round-brace: exclude declaration
+
 2025.02.01, v1.92.0
 
 feature:
