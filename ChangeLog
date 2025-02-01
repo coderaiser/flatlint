@@ -1,3 +1,11 @@
+2025.02.01, v1.95.0
+
+fix:
+- 8697533 flatlint: add-missing-round-brace: when next keyword
+
+feature:
+- 978c283 flatlint: add-missing-round-brace: before semicolon
+
 2025.02.01, v1.94.0
 
 feature:
