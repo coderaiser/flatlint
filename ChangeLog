@@ -1,3 +1,8 @@
+2025.02.01, v1.93.1
+
+feature:
+- 7ed1762 flatlint: remove-useless-comma: declaration
+
 2025.02.01, v1.93.0
 
 feature:
