@@ -83,6 +83,9 @@ const m = {
 
 -{hello} = world;
 +({hello} = world);
+
+-assign(oldPath, currentPath;
++assign(oldPath, currentPath);
 ```
 
 </details>
