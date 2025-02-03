@@ -321,6 +321,7 @@ When you want to use custom plugins:
 import {lint} from 'flatlint';
 
 const [code] = lint(`a && b = c`, {
+    startLine: 1,
     plugins: [
         ['wrap-assignment-in-parens', {
             report: () => `Wrap the assignment in parentheses after '&&'`,
