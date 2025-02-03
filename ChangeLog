@@ -1,3 +1,8 @@
+2025.02.03, v1.98.1
+
+fix:
+- 706b91d flatlint: startLine
+
 2025.02.03, v1.98.0
 
 feature:
