@@ -1,3 +1,8 @@
+2025.02.04, v1.98.2
+
+feature:
+- dad91cd flatlint: convert-comma-to-semicolon: simplify
+
 2025.02.03, v1.98.1
 
 fix:
