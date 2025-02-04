@@ -201,6 +201,15 @@ t.equal(expected, []);
 
  </details>
 
+<details><summary>remove useless dot</summary>
+
+```diff
+-fn([].);
++fn([].);
+```
+
+ </details>
+
 <details><summary>remove invalid character</summary>
 
 ```diff
