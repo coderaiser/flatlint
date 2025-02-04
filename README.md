@@ -155,6 +155,10 @@ t.transform('declare-imports-first', {
 
 -import a from 'a');
 +import a from 'a';
+
+if (a) {
+-})
++}
 ```
 
  </details>
