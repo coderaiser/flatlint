@@ -175,6 +175,13 @@ const a = {
 -    b: 'hello';
 +    b: 'hello',
 }
+
+const b = [
+    1,
+-   2;
++   2,
+    3,
+]
 ```
 
  </details>
