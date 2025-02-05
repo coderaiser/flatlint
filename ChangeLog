@@ -1,3 +1,11 @@
+2025.02.05, v1.104.0
+
+feature:
+- 9dfac2e flatlint: add-missing-comma: declare
+- 2819e82 flatlint: convert-semicolon-to-comma: exclude interface
+- 97a4a43 flatlint: add-missing-comma: exclude interface
+- 775ead0 flatlint: add-missing-round-brace: exclude interface
+
 2025.02.05, v1.103.0
 
 feature:
