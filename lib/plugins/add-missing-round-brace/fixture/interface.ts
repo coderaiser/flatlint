@@ -14,3 +14,17 @@ export interface IUnicodeHandling {
    */
    activeVersion: string;
 }
+
+export interface IUnicodeVersionProvider {
+    /**
+     * String indicating the Unicode version provided.
+     */
+    readonly version: string;
+
+    /**
+     * Unicode version dependent wcwidth implementation.
+     */
+    wcwidth(codepoint: number): 0 | 1 | 2;
+
+    charProperties(codepoint: number, preceding: number): number;
+}
