@@ -52,41 +52,6 @@
        * Gets the terminal modes as set by SM/DECSET.
        */
       readonly modes: IModes;
-
-      /**
-       * Gets or sets the terminal options. This supports setting multiple
-       * options.
-       *
-       * @example Get a single option
-       * ```ts
-       * console.log(terminal.options.fontSize);
-       * ```
-       *
-       * @example Set a single option:
-       * ```ts
-       * terminal.options.fontSize = 12;
-       * ```
-       * Note that for options that are object, a new object must be used in order
-       * to take effect as a reference comparison will be done:
-       * ```ts
-       * const newValue = terminal.options.theme;
-       * newValue.background = '#000000';
-       *
-       * // This won't work
-       * terminal.options.theme = newValue;
-       *
-       * // This will work
-       * terminal.options.theme = { ...newValue };
-       * ```
-       *
-       * @example Set multiple options
-       * ```ts
-       * terminal.options = {
-       *   fontSize: 12,
-       *   fontFamily: 'Courier New'
-       * };
-       * ```
-       */
       options: ITerminalOptions;
 
       /**
@@ -122,4 +87,32 @@
        * @param joinerId The character joiner's ID (returned after register)
        */
       deregisterCharacterJoiner(joinerId: number): void;
+  }
+  
+  export interface ILogger {
+      /**
+       * Log a trace message, this will only be called if
+       * {@link ITerminalOptions.logLevel} is set to trace.
+       */
+      trace(message: string, ...args: any[]): void;
+      /**
+       * Log a debug message, this will only be called if
+       * {@link ITerminalOptions.logLevel} is set to debug or below.
+       */
+      debug(message: string, ...args: any[]): void;
+      /**
+       * Log a debug message, this will only be called if
+       * {@link ITerminalOptions.logLevel} is set to info or below.
+       */
+      info(message: string, ...args: any[]): void;
+      /**
+       * Log a debug message, this will only be called if
+       * {@link ITerminalOptions.logLevel} is set to warn or below.
+       */
+      warn(message: string, ...args: any[]): void;
+      /**
+       * Log a debug message, this will only be called if
+       * {@link ITerminalOptions.logLevel} is set to error or below.
+       */
+      error(message: string | Error, ...args: any[]): void;
   }
