@@ -1,3 +1,8 @@
+2025.02.05, v1.103.0
+
+feature:
+- a6d96c8 flatlint: convert-semicolon-to-comma: typings
+
 2025.02.05, v1.102.0
 
 feature:
