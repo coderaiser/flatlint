@@ -1,3 +1,11 @@
+2025.02.06, v1.105.0
+
+fix:
+- b308df6 flatlint: types: isTSKeyword
+
+feature:
+- 8b7e4c5 flatlint: @putout/operator-keyword v2.0.0
+
 2025.02.05, v1.104.0
 
 feature:
