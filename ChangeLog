@@ -1,3 +1,8 @@
+2025.02.07, v1.105.1
+
+fix:
+- 9d76c2c flatlint: convert-comma-to-semicolon: isKeyword: no token
+
 2025.02.06, v1.105.0
 
 fix:
