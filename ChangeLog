@@ -1,3 +1,8 @@
+2025.02.10, v1.106.0
+
+feature:
+- 9d3ddf2 flatlint: convert-comma-to-semicolon: one import
+
 2025.02.07, v1.105.1
 
 fix:
