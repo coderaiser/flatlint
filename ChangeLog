@@ -1,3 +1,8 @@
+2025.02.10, v1.106.1
+
+fix:
+- b5f2743 flatlint: add-missing-comma: import
+
 2025.02.10, v1.106.0
 
 feature:
