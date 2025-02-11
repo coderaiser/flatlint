@@ -1,3 +1,8 @@
+2025.02.11, v1.110.0
+
+fix:
+- a2d6d4b flatlint: convert-semicolon-to-comma: before if
+
 2025.02.11, v1.109.0
 
 fix:
