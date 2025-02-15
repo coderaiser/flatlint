@@ -1,3 +1,8 @@
+2025.02.15, v1.114.0
+
+feature:
+- 6a002f3 flatlint: add-missing-arrow: method (#1)
+
 2025.02.13, v1.113.0
 
 feature:
