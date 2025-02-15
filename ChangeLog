@@ -1,3 +1,9 @@
+2025.02.15, v1.116.0
+
+feature:
+- 80bf900 convert-semicolon-to-comma: class (#1)
+- e58018d flatlint: parser: add support of multiline comments
+
 2025.02.15, v1.115.0
 
 feature:
