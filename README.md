@@ -1,4 +1,13 @@
-# FlatLint
+# FlatLint[![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [![Coverage Status][CoverageIMGURL]][CoverageURL]
+
+[NPMURL]: https://npmjs.org/package/flatlint "npm"
+[NPMIMGURL]: https://img.shields.io/npm/v/flatlint.svg?style=flat
+[BuildStatusURL]: https://github.com/coderaiser/flatlint/actions?query=workflow%3A%22Node+CI%22 "Build Status"
+[BuildStatusIMGURL]: https://github.com/coderaiser/flatlint/workflows/Node%20CI/badge.svg
+[LicenseURL]: https://tldrlegal.com/license/mit-license "MIT License"
+[LicenseIMGURL]: https://img.shields.io/badge/license-MIT-317BF9.svg?style=flat
+[CoverageURL]: https://coveralls.io/github/coderaiser/flatlint?branch=master
+[CoverageIMGURL]: https://coveralls.io/repos/coderaiser/flatlint/badge.svg?branch=master&service=github
 
 Token-based JavaScript linter that fixes Syntax Errors
 
@@ -356,3 +365,4 @@ const [code] = lint(`a && b = c`, {
 ## License
 
 MIT
+
