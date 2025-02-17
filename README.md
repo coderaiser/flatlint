@@ -19,7 +19,7 @@ npm i flatlint
 
 ## Available fixes
 
-<details><summary>Assignment without parentheses after <code>&&</code></summary>
+<details><summary>assignment without parentheses after <code>&&</code></summary>
 
 ```diff
 -a && b = c;
@@ -45,6 +45,15 @@ function x() {
 -const a = 3,
 +const a = 3;
 module.exports = 2;
+```
+
+</details>
+
+<details><summary>convert colon to semicolon</summary>
+
+```diff
+-console.log(a, b):
++console.log(a, b);
 ```
 
 </details>
