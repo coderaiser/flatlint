@@ -1,3 +1,8 @@
+2025.02.17, v2.0.1
+
+fix:
+- 544a124 flatlint: add-missing-round-brace: exclude const
+
 2025.02.17, v2.0.0
 
 feature:
