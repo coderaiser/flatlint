@@ -374,4 +374,3 @@ const [code] = lint(`a && b = c`, {
 ## License
 
 MIT
-
