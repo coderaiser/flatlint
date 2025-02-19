@@ -1,3 +1,8 @@
+2025.02.19, v2.0.2
+
+feature:
+- 97d1fc2 flatlint: add-missing-round-brace: exclude object property
+
 2025.02.17, v2.0.1
 
 fix:
