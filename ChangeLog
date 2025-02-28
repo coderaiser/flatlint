@@ -1,3 +1,8 @@
+2025.02.28, v2.1.5
+
+feature:
+- 5e1f939 flatlint: remove-useless-comma + convert-comma-to-semicolon: overlap
+
 2025.02.28, v2.1.4
 
 feature:
