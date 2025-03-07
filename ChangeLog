@@ -1,3 +1,8 @@
+2025.03.07, v2.3.2
+
+fix:
+- 5bfd266 add-missing-arrow: getter
+
 2025.03.07, v2.3.1
 
 feature:
