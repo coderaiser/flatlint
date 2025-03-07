@@ -1,3 +1,8 @@
+2025.03.07, v2.3.3
+
+fix:
+- 307c3ef add-missing-round-brace: false positive on function declaration
+
 2025.03.07, v2.3.2
 
 fix:
