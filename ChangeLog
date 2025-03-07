@@ -1,3 +1,8 @@
+2025.03.07, v2.3.1
+
+feature:
+- ee13720 flatlint: add-missing-round-brace: exclude if
+
 2025.03.07, v2.3.0
 
 feature:
