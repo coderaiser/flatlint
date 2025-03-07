@@ -1,3 +1,8 @@
+2025.03.07, v2.3.5
+
+feature:
+- ddfb7d9 convert-semicolon-to-comma: exclude throw
+
 2025.03.07, v2.3.4
 
 fix:
