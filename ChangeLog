@@ -1,3 +1,8 @@
+2025.03.07, v2.4.0
+
+feature:
+- 7fa3055 convert-semicolon-to-comma: array
+
 2025.03.07, v2.3.5
 
 feature:
