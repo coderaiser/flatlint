@@ -1,3 +1,8 @@
+2025.03.07, v2.3.0
+
+feature:
+- 21cb416 remove-useless-round-brace: false positive
+
 2025.03.07, v2.2.0
 
 feature:
