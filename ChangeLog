@@ -1,3 +1,8 @@
+2025.03.07, v2.3.4
+
+fix:
+- 429e4ba flatlint: add-missing-round-brace: false positive
+
 2025.03.07, v2.3.3
 
 fix:
