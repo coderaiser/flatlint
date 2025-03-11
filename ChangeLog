@@ -1,3 +1,8 @@
+2025.03.11, v2.5.0
+
+feature:
+- 5ef987c flatlint: apply-import-order: add
+
 2025.03.07, v2.4.0
 
 feature:
