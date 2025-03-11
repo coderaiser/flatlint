@@ -19,6 +19,15 @@ npm i flatlint
 
 ## Available fixes
 
+<details><summary>apply import order</summary>
+
+```diff
+-import {readFile}, fs from 'node:fs';
++import fs, {readFile} from 'node:fs';
+```
+
+</details>
+
 <details><summary>assignment without parentheses after <code>&&</code></summary>
 
 ```diff
