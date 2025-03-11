@@ -1,4 +1,4 @@
-import {run} from 'madrun';
+import x, {run} from 'madrun';
 
 export default {
     'lint': () => 'putout .',
