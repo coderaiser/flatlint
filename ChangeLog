@@ -1,3 +1,8 @@
+2025.03.14, v2.9.0
+
+feature:
+- 4313bf9 flatlint: convert-semicolon-to-comma: exclude keywords
+
 2025.03.14, v2.8.0
 
 feature:
