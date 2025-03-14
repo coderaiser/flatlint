@@ -1,3 +1,8 @@
+2025.03.14, v2.7.0
+
+feature:
+- 5df354d flatlint: remove-useless-round-brace: for-of
+
 2025.03.14, v2.6.0
 
 feature:
