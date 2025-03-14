@@ -1,3 +1,8 @@
+2025.03.14, v2.6.0
+
+feature:
+- 47fd356 flatlint: add-missing-round-brace: call-nested
+
 2025.03.11, v2.5.1
 
 fix:
