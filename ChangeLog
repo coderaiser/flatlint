@@ -1,3 +1,8 @@
+2025.03.18, v2.14.0
+
+feature:
+- 853d597 flatlint: convert-semicolon-to-comma: object-inside-array
+
 2025.03.18, v2.13.0
 
 feature:
