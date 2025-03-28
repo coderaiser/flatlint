@@ -76,9 +76,6 @@
   },
   "homepage": "https://github.com/coderaiser/flatlint",
   "license": "MIT",
-  "engines": {
-    "node": ">=18"
-  },
   "dependencies": {
     "@putout/engine-loader": "^15.1.1",
     "@putout/operator-keyword": "^2.0.0",
@@ -97,6 +94,9 @@
     "nodemon": "^3.0.1",
     "putout": "^39.3.0",
     "supertape": "^11.0.4"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "publishConfig": {
     "access": "public"
