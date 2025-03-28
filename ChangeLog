@@ -1,3 +1,13 @@
+2025.03.28, v3.0.0
+
+feature:
+- 7e4ae06 flatlint: drop support of node < 20
+- 5e7e24d flatlint: supertape v11.0.4
+- 04fd6b1 flatlint: putout v39.3.0
+- f2e31d6 flatlint: madrun v11.0.0
+- 597f18b flatlint: eslint-plugin-putout v26.1.0
+- 0e57f96 flatlint: @putout/test v13.0.0
+
 2025.03.18, v2.14.1
 
 feature:
