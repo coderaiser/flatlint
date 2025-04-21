@@ -67,6 +67,17 @@ module.exports = 2;
 
 </details>
 
+<details><summary>convert colon to comma</summary>
+
+```diff
+export const rules = [
+-   ['apply-nesting': applyNesting],
++   ['apply-nesting', applyNesting],
+];
+```
+
+</details>
+
 <details><summary>convert <code>from</code> to <code>require</code></summary>
 
 ```diff
