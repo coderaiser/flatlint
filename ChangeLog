@@ -1,3 +1,10 @@
+2025.04.21, v3.1.0
+
+feature:
+- 99bf0ac flatlint: convert-colon-to-comma: add
+- 83c0310 flatlint: putout v40.0.10
+- 3599fea flatlint: convert-comma-to-semicolon: array-colon: false positive
+
 2025.03.28, v3.0.0
 
 feature:
