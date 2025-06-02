@@ -1,3 +1,9 @@
+2025.06.02, v3.1.1
+
+feature:
+- 0b3e1ca flatlint: eslint-plugin-putout v27.1.0
+- 97a1c08 flatlint: @putout/engine-loader v16.0.0
+
 2025.04.21, v3.1.0
 
 feature:
