@@ -1,3 +1,8 @@
+2025.08.05, v3.2.0
+
+feature:
+- c8e977c flatlint: add-missing-squire-brace: MemberExpression: add support
+
 2025.08.05, v3.1.2
 
 fix:
