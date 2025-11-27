@@ -37,6 +37,15 @@ npm i flatlint
 
 </details>
 
+<details><summary>convert <code>assert</code> to <code>with</code></summary>
+
+```diff
+-import a from 'a' assert {type: 'json'}
++import a from 'a' with {type: 'json'}
+```
+
+</details>
+
 <details><summary>convert comma to semicolon</summary>
 
 ```diff
