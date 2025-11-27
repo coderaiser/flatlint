@@ -78,7 +78,7 @@
   "license": "MIT",
   "dependencies": {
     "@putout/engine-loader": "^16.0.0",
-    "@putout/operator-keyword": "^2.0.0",
+    "@putout/operator-keyword": "^3.0.0",
     "debug": "^4.4.0",
     "js-tokens": "^9.0.1"
   },
