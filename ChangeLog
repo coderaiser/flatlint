@@ -1,3 +1,10 @@
+2025.12.10, v3.5.0
+
+feature:
+- ae78398 flatlint: putout v41.0.2
+- 20b567e flatlint: js-tokens v10.0.0
+- a366b3b flatlint: eslint-plugin-putout v29.0.2
+
 2025.11.27, v3.4.0
 
 feature:
