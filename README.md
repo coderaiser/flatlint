@@ -255,7 +255,7 @@ t.equal(expected, []);
 <details><summary>remove useless dot</summary>
 
 ```diff
--fn([].);
+-fn([]);
 +fn([].);
 ```
 
