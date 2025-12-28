@@ -1,3 +1,8 @@
+2025.12.28, v3.6.0
+
+feature:
+- 03ab628 flatlint: add-missing-comma: }" -> },"
+
 2025.12.10, v3.5.0
 
 feature:
