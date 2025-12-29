@@ -1,3 +1,8 @@
+2025.12.29, v3.7.0
+
+feature:
+- 3cbe4d6 flatlint: debug -> obug
+
 2025.12.28, v3.6.0
 
 feature:
