@@ -1,3 +1,8 @@
+2025.12.29, v3.9.0
+
+feature:
+- 9b7cf85 flatlint: apply-import-from: add
+
 2025.12.29, v3.8.0
 
 feature:
