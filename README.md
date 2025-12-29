@@ -28,6 +28,15 @@ npm i flatlint
 
 </details>
 
+<details><summary>apply import <code>from</code></summary>
+
+```diff
+-import fs form 'node:fs';
++import fs from 'node:fs';
+```
+
+</details>
+
 <details><summary>assignment without parentheses after <code>&&</code></summary>
 
 ```diff
