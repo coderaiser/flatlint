@@ -1,3 +1,8 @@
+2025.12.31, v3.10.2
+
+feature:
+- cec2d33 flatlint: @putout/engine-loader v17.0.4
+
 2025.12.30, v3.10.1
 
 feature:
