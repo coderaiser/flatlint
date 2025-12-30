@@ -77,7 +77,7 @@
   "homepage": "https://github.com/coderaiser/flatlint",
   "license": "MIT",
   "dependencies": {
-    "@putout/engine-loader": "^16.0.0",
+    "@putout/engine-loader": "^17.0.4",
     "@putout/operator-keyword": "^3.0.0",
     "js-tokens": "^10.0.0",
     "obug": "^2.1.1"
