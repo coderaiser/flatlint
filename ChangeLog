@@ -1,3 +1,8 @@
+2025.12.30, v3.10.1
+
+feature:
+- 7a2aa2a flalint: add-mising-assing: false positive
+
 2025.12.30, v3.10.0
 
 feature:
