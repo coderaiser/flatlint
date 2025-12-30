@@ -96,6 +96,15 @@ export const rules = [
 
 </details>
 
+<details><summary>convert colon to <code>as</code></summary>
+
+```diff
+-import {simpleImport: _simpleImport} from './simple-import.js';
++import {simpleImport as _simpleImport} from './simple-import.js';
+```
+
+</details>
+
 <details><summary>convert <code>from</code> to <code>require</code></summary>
 
 ```diff
