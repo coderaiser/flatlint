@@ -319,6 +319,15 @@ t.equal(expected, []);
 
  </details>
 
+<details><summary>Remove useless assign</summary>
+
+```diff
+-import {readFile, readdir} = from 'node:fs/promises';
++import {readFile, readdir} from 'node:fs/promises';
+```
+
+ </details>
+
 <details><summary>Remove useless coma</summary>
 
 ```diff
