@@ -348,6 +348,18 @@ const a = class {
 
  </details>
 
+<details><summary>add missing <code>if</code></summary>
+
+```diff
+    if (a < 0)
+        console.log('hello');
+-    else (a > 3)
++    else if (a > 3)
+        console.log('world');
+```
+
+ </details>
+
 ## Template literals
 
 **FlatLint** uses language similar to 🐊[**PutoutScript**](https://github.com/coderaiser/putout/blob/master/docs/putout-script.md#-putoutscript).
