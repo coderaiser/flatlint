@@ -1,3 +1,8 @@
+2026.01.01, v4.0.4
+
+feature:
+- f062bd2 flatlint: convert-semicolon-to-comma: improve support
+
 2026.01.01, v4.0.3
 
 fix:
