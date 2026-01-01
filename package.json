@@ -1,6 +1,6 @@
 {
   "name": "flatlint",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "JavaScript tokens-based linter",
   "main": "lib/flatlint.js",
   "type": "module",
