@@ -1,3 +1,8 @@
+2026.01.01, v4.0.1
+
+fix:
+- 892eb4c flatlint: convert-semicolon-to-comma: false positive
+
 2025.12.31, v4.0.0
 
 feature:
