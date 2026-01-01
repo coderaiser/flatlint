@@ -1,3 +1,8 @@
+2026.01.01, v4.0.7
+
+feature:
+- 9cb90c6 flatlint: @putout/operator-keyword v4.0.0
+
 2026.01.01, v4.0.6
 
 feature:
