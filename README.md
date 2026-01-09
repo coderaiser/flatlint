@@ -255,6 +255,17 @@ const b = [
 
  </details>
 
+<details><summary>convert <code>module</code> to <code>namespace</code></summary>
+
+```diff
+-module M {
++namespace M {
+    var a: string;
+}
+```
+
+ </details>
+
 <details><summary>remove useless comma</summary>
 
 ```diff
