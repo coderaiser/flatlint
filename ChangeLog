@@ -1,3 +1,11 @@
+2026.01.10, v4.1.0
+
+feature:
+- d679c52 flatlint: convert-module-to-namespace: add
+- f341d6e flatlint: supertape v12.0.0
+- 085179a flatlint: madrun v12.1.0
+- 7529984 flatlint: @putout/test v15.0.0
+
 2026.01.01, v4.0.7
 
 feature:
