@@ -1,3 +1,8 @@
+2026.01.12, v4.2.0
+
+feature:
+- 0f61b17 flatlint: remove-useless-comma: double
+
 2026.01.10, v4.1.0
 
 feature:
