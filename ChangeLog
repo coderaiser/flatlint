@@ -1,3 +1,8 @@
+2026.01.27, v4.3.2
+
+fix:
+- 4ee56d0 flatlint: examples
+
 2026.01.27, v4.3.1
 
 feature:
