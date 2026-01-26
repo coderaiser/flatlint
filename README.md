@@ -371,6 +371,15 @@ const a = class {
 
  </details>
 
+<details><summary>split <code>namespace</code> with <code>specifier</code></summary>
+
+```diff
+-import * as plugin, {CUT} from './plugin.js'
++import * as plugin, {CUT} from './plugin.js'
+```
+
+ </details>
+
 ## Template literals
 
 **FlatLint** uses language similar to 🐊[**PutoutScript**](https://github.com/coderaiser/putout/blob/master/docs/putout-script.md#-putoutscript).
