@@ -371,11 +371,12 @@ const a = class {
 
  </details>
 
-<details><summary>split <code>namespace</code> with <code>specifier</code></summary>
+<details><summary>split <code>namespace</code> with <code>specifiers</code></summary>
 
 ```diff
--import * as plugin, {CUT} from './plugin.js'
-+import * as plugin, {CUT} from './plugin.js'
+-import * as plugin, {CUT} from './plugin.js';
++import as plugin from './plugin.js';
++const {CUT} = plugin;
 ```
 
  </details>
