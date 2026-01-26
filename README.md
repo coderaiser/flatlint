@@ -375,7 +375,7 @@ const a = class {
 
 ```diff
 -import * as plugin, {CUT} from './plugin.js';
-+import as plugin from './plugin.js';
++import * as plugin from './plugin.js';
 +const {CUT} = plugin;
 ```
 
