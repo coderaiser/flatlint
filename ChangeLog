@@ -1,3 +1,8 @@
+2026.01.29, v4.5.1
+
+fix:
+- b3d1938 flatlint: add-missing-squire-brace: next punctuator: exclude
+
 2026.01.29, v4.5.0
 
 feature:
