@@ -1,3 +1,8 @@
+2026.01.29, v4.5.2
+
+feature:
+- 4d5dd49 flatlint: add-missing-square-brace: curly: exclude
+
 2026.01.29, v4.5.1
 
 fix:
