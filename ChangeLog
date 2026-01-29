@@ -1,3 +1,8 @@
+2026.01.29, v4.4.2
+
+feature:
+- f83e19f flatlint: remove-useless-round-brace: ]): false positive
+
 2026.01.29, v4.4.1
 
 feature:
