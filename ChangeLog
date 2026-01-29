@@ -1,3 +1,8 @@
+2026.01.29, v4.4.1
+
+feature:
+- 8f021bd flatlint: parser: improve support of Templates
+
 2026.01.29, v4.4.0
 
 feature:
