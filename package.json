@@ -9,33 +9,15 @@
     "./with-plugins": "./lib/with-plugins.js"
   },
   "imports": {
-    "#test": {
-      "default": "./lib/test/test.js"
-    },
-    "#types": {
-      "default": "./lib/types/types.js"
-    },
-    "#parser": {
-      "default": "./lib/parser/parser.js"
-    },
-    "#printer": {
-      "default": "./lib/printer/printer.js"
-    },
-    "#traverser": {
-      "default": "./lib/traverser/traverser.js"
-    },
-    "#compare": {
-      "default": "./lib/compare/compare.js"
-    },
-    "#compare/values": {
-      "default": "./lib/compare/values.js"
-    },
-    "#runner": {
-      "default": "./lib/runner/runner.js"
-    },
-    "#flatlint": {
-      "default": "./lib/flatlint.js"
-    }
+    "#test": "./lib/test/test.js",
+    "#types": "./lib/types/types.js",
+    "#parser": "./lib/parser/parser.js",
+    "#printer": "./lib/printer/printer.js",
+    "#traverser": "./lib/traverser/traverser.js",
+    "#compare": "./lib/compare/compare.js",
+    "#compare/values": "./lib/compare/values.js",
+    "#runner": "./lib/runner/runner.js",
+    "#flatlint": "./lib/flatlint.js"
   },
   "scripts": {
     "lint": "madrun lint",
