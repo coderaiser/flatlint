@@ -1,3 +1,8 @@
+2026.01.30, v4.6.2
+
+feature:
+- 512cfaf flatlint: add-missing-curly: logical: false positive
+
 2026.01.30, v4.6.1
 
 feature:
