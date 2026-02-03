@@ -1,3 +1,8 @@
+2026.02.03, v4.7.1
+
+feature:
+- d2afcb8 flatlint: add-missing-assing: exclude strict equal
+
 2026.02.03, v4.7.0
 
 feature:
