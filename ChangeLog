@@ -1,3 +1,8 @@
+2026.02.04, v4.8.0
+
+feature:
+- c705791 flatlint: add-missing-round-brace: malformed
+
 2026.02.03, v4.7.2
 
 feature:
