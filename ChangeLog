@@ -1,3 +1,8 @@
+2026.02.11, v4.9.0
+
+feature:
+- 96857d5 flatlint: convert-semicolon-to-comma: chain
+
 2026.02.11, v4.8.2
 
 feature:
