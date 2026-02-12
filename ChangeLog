@@ -1,3 +1,8 @@
+2026.02.12, v4.11.0
+
+feature:
+- 13e324b flatlint: convert-modult-to-namespace: declare: exclude
+
 2026.02.12, v4.10.0
 
 feature:
