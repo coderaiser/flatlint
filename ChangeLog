@@ -1,3 +1,14 @@
+2026.02.17, v5.0.0
+
+feature:
+- e97e93a compare: for-of
+- 39351ad feature: compare: match-token -> match
+- aa77d10 cursor: getIndex: add
+- d582e38 flatlint: compare: move out cursor
+- 8c238c4 flatlint: compare: move out match-token
+- 49281ca flatlint: compare: matchers
+- 0ddcf54 compare: simplify
+
 2026.02.17, v4.13.1
 
 fix:
