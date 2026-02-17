@@ -1,3 +1,14 @@
+2026.02.17, v4.13.1
+
+fix:
+- a3a40b5 flatlint: squire -> square
+- 376082e flatlint: add-missing-square-brace: inner
+
+feature:
+- 5dcdd09 flatlint: madrun v13.0.0
+- 8de4017 flatlint: putout v42.0.3
+- 67e23ea flatlint: eslint-plugin-putout v31.0.0
+
 2026.02.17, v4.13.0
 
 feature:
