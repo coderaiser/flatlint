@@ -17,7 +17,8 @@
     "#compare": "./lib/compare/compare.js",
     "#compare/values": "./lib/compare/values.js",
     "#runner": "./lib/runner/runner.js",
-    "#flatlint": "./lib/flatlint.js"
+    "#flatlint": "./lib/flatlint.js",
+    "#plugin-remove-useless-assign": "./lib/plugins/remove-useless-assign/index.js"
   },
   "scripts": {
     "lint": "madrun lint",
