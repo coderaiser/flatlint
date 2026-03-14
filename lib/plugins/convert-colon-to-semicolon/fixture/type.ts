@@ -1,0 +1,2 @@
+function getStringLength(str): ureg {
+}
