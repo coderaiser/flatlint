@@ -1,3 +1,8 @@
+2026.03.29, v5.3.0
+
+feature:
+- 325946f flatlint: remove-useless-import-curly-braces: add
+
 2026.03.29, v5.2.2
 
 feature:
