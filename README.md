@@ -228,6 +228,20 @@ if (a) {
 
  </details>
 
+<details><summary>remove useless import curly braces</summary>
+
+```diff
+-import info from '../package.json' {
+-    with: {
+-        type: 'json',
+-    }
++import info from '../package.json' with {
++    type: 'json',
+-};
+```
+
+</details>
+
 <details><summary>remove useless square brace</summary>
 
 ```diff
