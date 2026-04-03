@@ -1,3 +1,8 @@
+2026.04.04, v5.4.0
+
+feature:
+- 3043e38 flatlint: remove-useless-assign: function
+
 2026.03.29, v5.3.0
 
 feature:
