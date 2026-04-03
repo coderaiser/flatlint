@@ -1,3 +1,8 @@
+2026.04.04, v5.4.1
+
+feature:
+- 5261736 flatlint: add-missing-arrow: function: exclude
+
 2026.04.04, v5.4.0
 
 feature:
