@@ -422,6 +422,10 @@ Collects arguments of function when exists.
 
 Collects everything that looks like expression.
 
+### `__tmpl`
+
+Collects template literal
+
 ## API
 
 ```js
