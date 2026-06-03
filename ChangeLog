@@ -1,3 +1,10 @@
+2026.06.03, v5.7.0
+
+feature:
+- 3736e1b flatlint: supertape v13.2.0
+- bec8705 flatlint: montag v2.0.1
+- 3693318 flatlint: add-missing-round-brace: nested array
+
 2026.04.19, v5.6.0
 
 feature:
