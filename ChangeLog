@@ -1,3 +1,8 @@
+2026.07.11, v5.8.0
+
+feature:
+- 4cff5bc flatlint: apply-declarator-export: add
+
 2026.06.04, v5.7.1
 
 feature:
