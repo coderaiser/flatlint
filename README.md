@@ -399,7 +399,7 @@ const a = class {
 
 ```diff
 -export @Controller('users') class UsersController {
-+@Controlle('users') 
++@Controller('users') 
 +export class UsersController {
   findAll() {}
 }
