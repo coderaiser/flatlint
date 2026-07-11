@@ -395,13 +395,26 @@ const a = class {
 
  </details>
 
-<details><summary>apply declarator export</summary>
+<details><summary>apply decorator export</summary>
 
 ```diff
 -export @Controller('users') class UsersController {
 +@Controller('users') 
 +export class UsersController {
   findAll() {}
+}
+```
+
+ </details>
+
+<details><summary>apply decorator private</summary>
+
+```diff
+export class GithubService {
+    constructor(
+-       private readonly @Inject('OCTOKIT') octokit: Octokit
++       @Inject('OCTOKIT') private readonly octokit: Octokit
+    ) {}
 }
 ```
 
