@@ -1,3 +1,8 @@
+2026.07.12, v5.9.1
+
+fix:
+- b607b87 flatlint: apply-decorator-private: report
+
 2026.07.12, v5.9.0
 
 feature:
