@@ -1,3 +1,8 @@
+2026.07.11, v5.8.2
+
+feature:
+- d4b08f3 flatlint: apply-decorat-export: newline with arg
+
 2026.07.11, v5.8.1
 
 feature:
