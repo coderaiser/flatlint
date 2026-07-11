@@ -395,6 +395,18 @@ const a = class {
 
  </details>
 
+<details><summary>apply declarator export</summary>
+
+```diff
+-export @Controller('users') class UsersController {
++@Controlle('users') 
++export class UsersController {
+  findAll() {}
+}
+```
+
+ </details>
+
 ## Template literals
 
 **FlatLint** uses language similar to 🐊[**PutoutScript**](https://github.com/coderaiser/putout/blob/master/docs/putout-script.md#-putoutscript).
