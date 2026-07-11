@@ -1,3 +1,8 @@
+2026.07.11, v5.8.1
+
+feature:
+- 061a851 flatlint: apply-decorator-export: newline
+
 2026.07.11, v5.8.0
 
 feature:
