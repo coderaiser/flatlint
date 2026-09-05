@@ -1,3 +1,11 @@
+2026.09.05, v5.10.0
+
+fix:
+- 33e7a60 flatlint: apply-decorator-private: report
+
+feature:
+- 64ee04d flatlint: add-missing-const: add
+
 2026.07.12, v5.9.1
 
 fix:
