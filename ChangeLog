@@ -1,3 +1,8 @@
+2026.09.05, v5.10.1
+
+fix:
+- 69872f1 flatlint: plugins: add-missing-const: wire
+
 2026.09.05, v5.10.0
 
 fix:
