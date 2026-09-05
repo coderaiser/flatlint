@@ -185,6 +185,15 @@ t.transform('declare-imports-first', {
 
  </details>
 
+<details><summary>add missing <code>const</code></summary>
+
+```diff
+-export {report, scan, fix} = matchFiles();
++export const {report, scan, fix} = matchFiles();
+```
+
+ </details>
+
 <details><summary>add missing arrow <code>'=>'</code></summary>
 
 ```diff
