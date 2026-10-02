@@ -64,7 +64,7 @@
     "@putout/operator-keyword": "^5.0.0",
     "js-tokens": "^10.0.0",
     "montag": "^2.0.1",
-    "obug": "^2.1.1"
+    "obug": "^3.0.0"
   },
   "devDependencies": {
     "@putout/test": "^15.0.0",
