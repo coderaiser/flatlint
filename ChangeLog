@@ -1,3 +1,9 @@
+2026.10.02, v5.10.3
+
+feature:
+- 5c9bcae flatlint: add-missing-assign: exclude: "!=="
+- 17907c9 flatlint: obug v3.0.0
+
 2026.09.07, v5.10.2
 
 fix:
