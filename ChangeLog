@@ -1,3 +1,8 @@
+2026.11.25, v5.11.0
+
+feature:
+- db04ed3 flatlint: remove-useless-assign: const
+
 2026.10.02, v5.10.3
 
 feature:
