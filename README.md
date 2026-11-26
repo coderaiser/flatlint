@@ -300,6 +300,9 @@ function x() {
 -const expected = [],
 +const expected = [];
 t.equal(expected, []);
+
+-renameFileWithLog('hello', ,'world');
++renameFileWithLog('hello', 'world');
 ```
 
  </details>
