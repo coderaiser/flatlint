@@ -1,3 +1,8 @@
+2026.11.26, v5.11.1
+
+feature:
+- ec52ce0 flatlint: remove-useless-comma: empty argument, call in arguments, holes in array
+
 2026.11.25, v5.11.0
 
 feature:
